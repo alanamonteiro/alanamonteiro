@@ -3,12 +3,13 @@
 #### Hello, welcome to my GitHub!
 
 **
-
+<div>
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alanamonteiro&show_icons=true&include_all_commits=true&theme=gotham" alt="Alana's github stats" />
 
 <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&include_all_commits=true&theme=gotham" alt= "Alana's top language" />
-
+  
+<div>
 
 **
 
