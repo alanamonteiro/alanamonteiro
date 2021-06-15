@@ -2,4 +2,4 @@
 
 ### Hello, welcome to my GitHub!
 
-![coding gif](https://github.com/alanamonteiro/alanamonteiro/blob/main/tenor.gif){:height="75%"}
+<img src="https://github.com/alanamonteiro/alanamonteiro/blob/main/tenor.gif" height="200">
