@@ -2,4 +2,4 @@
 
 ### Hello, welcome to my GitHub!
 
-![coding gif](https://i.gifer.com/HmK3.gif)
+![coding gif](https://github.com/alanamonteiro/alanamonteiro/blob/main/HmK3.html)
