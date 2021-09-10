@@ -2,7 +2,7 @@
 #### Me chamo Alana, estou em busca de oportunidades na área de desenvolvimento, tenho muito interesse na área de análise de dados e Back-End!
 
 #### Hello, welcome to my GitHub!
-#### My name is Alana, I'm looking for develeoper opportunities, I have a lot of interest in Data Analsys and Back-End.
+#### My name is Alana, I'm looking for a developer opportunity, I have a lot of interest in Data Analsys and Back-End.
 
 *<a href="https://github.com/alanamonteiro">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alanamonteiro&show_icons=true&include_all_commits=true&theme=gotham"  alt="Alana's github stats" />
