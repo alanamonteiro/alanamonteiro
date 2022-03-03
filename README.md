@@ -1,10 +1,8 @@
 #### Olá, sejam bem vindos e bem vindas! 
-#### Me chamo Alana, estou em busca de oportunidades na área de desenvolvimento, tenho muito interesse na área de análise de dados e Back-End!
 
 --
 
 #### Hello, welcome to my GitHub!
-#### My name is Alana, I'm looking for a developer opportunity, I have a lot of interest in Data Analsys and Back-End.
 
 ---
 
